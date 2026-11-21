@@ -47,7 +47,7 @@ I build enhancements to a production product in regular sprint cycles. On the ba
 
 If you're hiring, have a project in mind, or just want to talk about reconciliation logic or verification pipelines, I'd love to hear from you.
 
-Email: **your.email@example.com**
-LinkedIn: **[linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)**
+Email: **athreyasrishti2@gmail.com**
+LinkedIn: **https://www.linkedin.com/in/srishti-athreya/**
 
 I usually reply within a day.
